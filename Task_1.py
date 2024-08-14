@@ -2,7 +2,7 @@ import queue
 import random
 import time
 
-# Створюємо чергу заявок
+# Створюємо чергу заявок 
 request_queue = queue.Queue()
 
 # Генерація унікального ідентифікатора заявки
