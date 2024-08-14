@@ -41,5 +41,7 @@ def main():
     except KeyboardInterrupt:
         print("Програма завершена.")
 
+
+
 if __name__ == "__main__":
     main()
